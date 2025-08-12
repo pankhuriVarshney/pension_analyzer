@@ -1,0 +1,29 @@
+# Core
+python>=3.9
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning
+xgboost
+pytorch-tabnet
+scikit-learn
+
+# NLP + LLM Integration
+langchain
+langchain-community
+ollama  # Python API for Ollama
+requests  # If directly calling Ollama HTTP API
+
+# Streamlit UI (if using interactive interface)
+streamlit
+
+# Model Saving & Loading
+joblib
+
+# Optional (Data Visualization / Analysis)
+plotly
+
+
+pip install pandas numpy matplotlib seaborn xgboost pytorch-tabnet scikit-learn langchain langchain-community ollama requests streamlit joblib plotly
